@@ -1,1 +1,1 @@
-## Experiments in immutablity, atomcity, virtual machines, containers in Linux.
+## Experiments in immutablity, atomicity, virtual machines, containers in Linux.
